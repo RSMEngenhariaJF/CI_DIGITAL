@@ -1,0 +1,15 @@
+C:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module paridade
+
+Top level modules:
+	paridade
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_paridade
+
+Top level modules:
+	tb_paridade
+
+} {} {}}

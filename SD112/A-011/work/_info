@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/A-010
+vcircuito
+!s110 1744071354
+!i10b 1
+!s100 c765Enjn26`=AJ3Zl_YdN2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYQiaz@@`4GmU_QFADkB5]1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/aluno/Documents/CI_DIGITAL/A-011
+w1744071336
+8C:/Users/aluno/Documents/CI_DIGITAL/A-011/cicuito.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-011/cicuito.v
+!i122 7
+L0 1 40
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1744071354.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-011/cicuito.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-011/cicuito.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtb_circuito
+!s110 1744071428
+!i10b 1
+!s100 cGRnEl79hL=6M=[<@c4DA2
+R0
+IoUQ6ZAhj^0b^;G?GILnEZ2
+R1
+R2
+w1744071404
+8C:/Users/aluno/Documents/CI_DIGITAL/A-011/tb_circuito.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-011/tb_circuito.v
+!i122 8
+L0 2 31
+R3
+r1
+!s85 0
+31
+!s108 1744071428.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-011/tb_circuito.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-011/tb_circuito.v|
+!i113 1
+R4
+R5

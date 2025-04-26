@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/A-013
+vmapeia
+Z0 !s110 1744330409
+!i10b 1
+!s100 9zB:0COk0@1;i[Re82X;g2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXJPk?L2cf`6NDb]DfI@?Q3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/A-014
+w1744330397
+8C:/Users/aluno/Documents/CI_DIGITAL/A-014/mapeia.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-014/mapeia.v
+!i122 50
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1744330409.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-014/mapeia.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-014/mapeia.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vparidade
+R0
+!i10b 1
+!s100 YcK2=Wz=3]EF4GoaS9zGC1
+R1
+I10^F`WPXUKM?HCzzaMXU?0
+R2
+R3
+w1744327842
+8C:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v
+!i122 48
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-014/paridade.v|
+!i113 1
+R6
+R7
+vtb_mapeia
+R0
+!i10b 1
+!s100 j`[`@^?483`BZl>L1VH;O1
+R1
+IN5Z;84K9C^debM^]m25YY3
+R2
+R3
+w1744330212
+8C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v
+!i122 51
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v|
+!i113 1
+R6
+R7
+vtb_paridade
+R0
+!i10b 1
+!s100 GDPEWJfWJXdeVF<EP4S=?1
+R1
+I1<U[`l^ch5^k7H5`A9:2h0
+R2
+R3
+w1744329553
+8C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v
+!i122 49
+L0 2 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_paridade.v|
+!i113 1
+R6
+R7

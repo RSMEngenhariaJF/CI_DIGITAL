@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vinv
+Z0 !s110 1743461330
+!i10b 1
+!s100 N2Pa0LDOkAH_h42KYXS001
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL?5o3`?R3CZLNAaCk3Q[62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/A-003
+w1743460225
+8C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-003/inv.v
+!i122 35
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1743461330.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv.v|
+!s90 -reportprogress|300|-work|work|C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vmyand
+R0
+!i10b 1
+!s100 1_iW?@HCfkWOKQoUh?MML2
+R1
+In9<J?5cW9l95EO56So;fF1
+R2
+R3
+w1743197277
+8C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-003/myand.v
+!i122 37
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand.v|
+!s90 -reportprogress|300|-work|work|C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand.v|
+!i113 1
+R7
+R8
+vtb_and
+!s110 1743461331
+!i10b 1
+!s100 9f@oXizbnn8M7=nSKLSMk1
+R1
+INdgEfLUOZ70Ik7PP84;Mo1
+R2
+R3
+w1743209201
+8C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand_tb.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-003/myand_tb.v
+!i122 38
+L0 3 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/aluno/Documents/CI_DIGITAL/A-003/myand_tb.v|
+!i113 1
+R7
+R8
+vtb_inv
+!s110 1743461480
+!i10b 1
+!s100 AW>[alY2hQc6d2JzbM;MR2
+R1
+ImRzkj1SUa2b7O=XXGE2R=3
+R2
+R3
+w1743461470
+8C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv_tb.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-003/inv_tb.v
+!i122 39
+L0 3 25
+R5
+r1
+!s85 0
+31
+!s108 1743461480.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/aluno/Documents/CI_DIGITAL/A-003/inv_tb.v|
+!i113 1
+R7
+R8

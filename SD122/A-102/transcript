@@ -1,0 +1,28 @@
+# Compile of condificador_GRAY.vhd failed with 1 errors.
+# Compile of condificador_GRAY.vhd failed with 1 errors.
+# Compile of condificador_GRAY.vhd failed with 2 errors.
+# Compile of condificador_GRAY.vhd failed with 1 errors.
+# Compile of condificador_GRAY.vhd failed with 2 errors.
+# Compile of condificador_GRAY.vhd was successful.
+# Compile of tv_gray.vhd failed with 36 errors.
+# Compile of tv_gray.vhd failed with 35 errors.
+# Compile of tv_gray.vhd failed with 1 errors.
+# Compile of tv_gray.vhd failed with 35 errors.
+# Compile of tv_gray.vhd failed with 36 errors.
+# Compile of tv_gray.vhd was successful with warnings.
+vsim work.teste_gray
+# vsim work.teste_gray 
+# Start time: 21:48:35 on Apr 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading std.env(body)
+# Loading work.teste_gray(stimulus)
+# Loading work.codificador_gray(behavioural)
+add wave -position insertpoint  \
+sim:/teste_gray/entrada \
+sim:/teste_gray/sig_out
+run 200ns
+# Break in Process stimuli at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/tv_gray.vhd line 58
+# End time: 21:49:28 on Apr 15,2025, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 16

@@ -1,0 +1,191 @@
+# Compile of paridade.v failed with 1 errors.
+# Compile of tb_paridade.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of paridade.v was successful.
+vsim work.tb_paridade
+# vsim work.tb_paridade 
+# Start time: 19:58:38 on Apr 10,2025
+# Loading work.tb_paridade
+# Loading work.paridade
+add wave -position insertpoint  \
+sim:/tb_paridade/myparity/parity_out \
+sim:/tb_paridade/myparity/data_in
+run 100ns]
+# Compile of tb_paridade.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_paridade
+run 200ns]
+# Compile of tb_paridade.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_paridade
+run 200ns]
+restart -f
+run 200ns
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of mapeia.v was successful.
+# Compile of mapeia.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_paridade
+# ** Error: (vsim-3043) Unresolved reference to 'ativa_saida'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_paridade File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v Line: 8
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mapeia
+# vsim work.tb_mapeia 
+# Start time: 19:58:38 on Apr 10,2025
+# Loading work.tb_mapeia
+# ** Error: (vsim-3043) Unresolved reference to 'ativa_saida'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mapeia File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v Line: 8
+# Error loading design
+# End time: 20:41:02 on Apr 10,2025, Elapsed time: 0:42:24
+# Errors: 2, Warnings: 2
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mapeia
+# vsim work.tb_mapeia 
+# Start time: 20:43:30 on Apr 10,2025
+# Loading work.tb_mapeia
+# ** Error: (vsim-3043) Unresolved reference to 'ativa_saida'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mapeia File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v Line: 8
+# Error loading design
+# End time: 20:43:31 on Apr 10,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mapeia
+# vsim work.tb_mapeia 
+# Start time: 20:44:58 on Apr 10,2025
+# Loading work.tb_mapeia
+# Loading work.mapeia
+# ** Error: (vsim-3033) Instantiation of 'ativa_saida' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mapeia/ativa_saida File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/mapeia.v Line: 10
+#         Searched libraries:
+#             C:/Users/aluno/Documents/CI_DIGITAL/A-014/work
+# Error loading design
+# End time: 20:44:58 on Apr 10,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v failed with 1 errors.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mapeia
+# vsim work.tb_mapeia 
+# Start time: 20:57:46 on Apr 10,2025
+# Loading work.tb_mapeia
+# Loading work.mapeia
+# Warning in wave window restart: ** UI-Msg: (vish-4014) No objects found matching '/tb_paridade/myparity/parity_out'. 
+# Warning in wave window restart: ** UI-Msg: (vish-4014) No objects found matching '/tb_paridade/myparity/data_in'. 
+add wave -position insertpoint  \
+sim:/tb_mapeia/dado \
+sim:/tb_mapeia/saida
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run 200ns
+vsim work.tb_mapeia
+# End time: 20:58:39 on Apr 10,2025, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 1
+# vsim work.tb_mapeia 
+# Start time: 20:58:39 on Apr 10,2025
+# Loading work.tb_mapeia
+# Loading work.mapeia
+add wave -position insertpoint  \
+sim:/tb_mapeia/dado \
+sim:/tb_mapeia/saida
+run 200ns
+# Compile of tb_paridade.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run 200ns
+# Compile of mapeia.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mapeia
+run 200ns
+# Compile of mapeia.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mapeia
+run 200ns
+# Compile of mapeia.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mapeia
+run 200ns
+# Compile of mapeia.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mapeia
+run 200ns
+# Compile of mapeia.v was successful.
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of tb_mapeia.v was successful.
+vsim work.tb_mapeia
+# End time: 21:10:41 on Apr 10,2025, Elapsed time: 0:12:02
+# Errors: 0, Warnings: 4
+# vsim work.tb_mapeia 
+# Start time: 21:10:41 on Apr 10,2025
+# Loading work.tb_mapeia
+# Loading work.mapeia
+# ** Error: (vsim-8220) This or another usage of 'ativa_saida' inconsistent with 'module' object.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mapeia File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v Line: 10
+# Error loading design
+# End time: 21:10:41 on Apr 10,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of paridade.v was successful.
+# Compile of tb_paridade.v was successful.
+# Compile of mapeia.v was successful.
+# Compile of tb_mapeia.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mapeia
+# vsim work.tb_mapeia 
+# Start time: 21:13:34 on Apr 10,2025
+# Loading work.tb_mapeia
+# Loading work.mapeia
+# ** Error: (vsim-8220) This or another usage of 'ativa_saida' inconsistent with 'module' object.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mapeia File: C:/Users/aluno/Documents/CI_DIGITAL/A-014/tb_mapeia.v Line: 10
+# Error loading design
+# End time: 21:13:34 on Apr 10,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2

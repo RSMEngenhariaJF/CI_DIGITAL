@@ -1,0 +1,19 @@
+C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/tv_gray.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/tv_gray.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ENV
+** Warning: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/tv_gray.vhd(5): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+-- Compiling entity teste_gray
+-- Compiling architecture stimulus of teste_gray
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/condificador_GRAY.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002/condificador_GRAY.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity codificador_gray
+-- Compiling architecture behavioural of codificador_gray
+
+} {} {}}

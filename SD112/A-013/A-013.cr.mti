@@ -1,0 +1,43 @@
+C:/Users/aluno/Documents/CI_DIGITAL/A-013/AND.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myand
+
+Top level modules:
+	myand
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_AND.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_AND
+
+Top level modules:
+	tb_AND
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-013/DFF.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling UDP d_ff
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-013/mux2x1.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/mux2x1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_DFF.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_DFF
+
+Top level modules:
+	tb_DFF
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_mux2x1.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/A-013/tb_mux2x1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux
+
+Top level modules:
+	tb_mux
+
+} {} {}}

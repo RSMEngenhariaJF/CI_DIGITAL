@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/A-003
+vhalf_adder
+!s110 1743456103
+!i10b 1
+!s100 0nF=lQV4Vd2WKa_b=Rhla3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUDKn^WFzPRjNJ2`2D8U2k1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/aluno/Documents/CI_DIGITAL/A-004
+w1743456073
+8C:/Users/aluno/Documents/CI_DIGITAL/A-004/my_half_adder.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-004/my_half_adder.v
+!i122 4
+L0 1 9
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1743456103.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-004/my_half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-004/my_half_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_half_adder
+!s110 1743456104
+!i10b 1
+!s100 beRz]AkNM6:ga0gOl4Dmo2
+R0
+IGl3aRKzgQNj`Kd=U:@zaG3
+R1
+R2
+w1743456095
+8C:/Users/aluno/Documents/CI_DIGITAL/A-004/half_adder_tb.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-004/half_adder_tb.v
+!i122 5
+L0 3 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-004/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-004/half_adder_tb.v|
+!i113 1
+R5
+R6

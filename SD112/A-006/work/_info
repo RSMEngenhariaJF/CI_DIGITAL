@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/A-005
+vcod_BCD
+Z0 !s110 1743636240
+!i10b 1
+!s100 >MN1?:Xlk`^_7KFkTYJcS0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISLeGLG]SQ]=VcHmX_]Yf53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/A-006
+w1743636203
+8C:/Users/aluno/Documents/CI_DIGITAL/A-006/codificador_BCD.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-006/codificador_BCD.v
+!i122 48
+L0 1 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1743636240.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-006/codificador_BCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-006/codificador_BCD.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+ncod_@b@c@d
+vcontador
+!s110 1743636239
+!i10b 1
+!s100 hZBK^6@S>_:1P4a[Kn>gZ0
+R1
+IiDfKU1E;`l`Rez8c6G=NF2
+R2
+R3
+w1743634233
+8C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-006/contador.v
+!i122 47
+L0 1 19
+R4
+r1
+!s85 0
+31
+!s108 1743636239.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador.v|
+!i113 1
+R6
+R7
+vmycnt
+R0
+!i10b 1
+!s100 GZTLdzQOk2j2PDVGLg5f83
+R1
+Izj7?LE>GcTdzd?Pb25l[a3
+R2
+R3
+w1743633553
+8C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador_7seg.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-006/contador_7seg.v
+!i122 50
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador_7seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-006/contador_7seg.v|
+!i113 1
+R6
+R7
+vtb_codificador
+R0
+!i10b 1
+!s100 mz6hHG;lk]H9T?IkTBmRa2
+R1
+IXAV0g6nIa>E50UZl2HzZ:3
+R2
+R3
+w1743633816
+8C:/Users/aluno/Documents/CI_DIGITAL/A-006/tb_codificador_BCD.v
+FC:/Users/aluno/Documents/CI_DIGITAL/A-006/tb_codificador_BCD.v
+!i122 49
+L0 3 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/A-006/tb_codificador_BCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/A-006/tb_codificador_BCD.v|
+!i113 1
+R6
+R7
