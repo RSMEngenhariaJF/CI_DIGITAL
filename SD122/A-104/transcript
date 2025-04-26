@@ -1,0 +1,56 @@
+# Compile of dec_4_16.v was successful.
+# Compile of dec_N_M.v was successful.
+# Compile of tb_dec_4_16.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_dec_4_16
+# vsim work.tb_dec_4_16 
+# Start time: 18:12:05 on Apr 23,2025
+# Loading work.tb_dec_4_16
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'dec_4_16'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_dec_4_16 File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v Line: 8
+# Error loading design
+# End time: 18:12:05 on Apr 23,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of tb_dec_4_16.v was successful.
+vsim work.tb_dec_4_16
+# vsim work.tb_dec_4_16 
+# Start time: 18:12:46 on Apr 23,2025
+# Loading work.tb_dec_4_16
+# Loading work.dec_4_16
+add wave -position insertpoint  \
+sim:/tb_dec_4_16/entrada \
+sim:/tb_dec_4_16/saida
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v(30)
+#    Time: 160 ns  Iteration: 0  Instance: /tb_dec_4_16
+# Break in Module tb_dec_4_16 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v line 30
+# Compile of dec_4_16.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.dec_4_16
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v(30)
+#    Time: 160 ns  Iteration: 0  Instance: /tb_dec_4_16
+# Break in Module tb_dec_4_16 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v line 30
+# Compile of tb_dec_4_16.v failed with 1 errors.
+# Compile of dec_4_16.v was successful.
+# Compile of dec_N_M.v was successful.
+# Compile of tb_dec_4_16.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_dec_4_16.v was successful.
+vsim work.tb_dec_4_16
+# End time: 18:18:30 on Apr 23,2025, Elapsed time: 0:05:44
+# Errors: 0, Warnings: 4
+# vsim work.tb_dec_4_16 
+# Start time: 18:18:30 on Apr 23,2025
+# Loading work.tb_dec_4_16
+# Loading work.dec_N_M
+add wave -position insertpoint  \
+sim:/tb_dec_4_16/entrada \
+sim:/tb_dec_4_16/saida
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v(36)
+#    Time: 160 ns  Iteration: 0  Instance: /tb_dec_4_16
+# Break in Module tb_dec_4_16 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105/tb_dec_4_16.v line 36
+# End time: 18:57:22 on Apr 23,2025, Elapsed time: 0:38:52
+# Errors: 0, Warnings: 1

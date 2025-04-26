@@ -1,0 +1,27 @@
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 20:57:04 on Apr 24,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/rst \
+sim:/testbench/flag_start \
+sim:/testbench/write_en \
+sim:/testbench/counter \
+sim:/testbench/address \
+sim:/testbench/mem_D \
+sim:/testbench/mem_Q \
+sim:/testbench/period
+run 500ns
+# End time: 21:19:04 on Apr 24,2025, Elapsed time: 0:22:00
+# Errors: 0, Warnings: 5

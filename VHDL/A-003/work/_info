@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103
+Ecodificador_gray
+Z0 w1744763255
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003
+Z4 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/condificador_GRAY.vhd
+Z5 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/condificador_GRAY.vhd
+l0
+L4 1
+Vc3_N@ik>mP?`IVn8G9NjB1
+!s100 QW7ES;z9]V7HEZ28fh0@R1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1744848398
+!i10b 1
+Z8 !s108 1744848398.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/condificador_GRAY.vhd|
+Z10 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/condificador_GRAY.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioural
+R1
+R2
+DEx4 work 16 codificador_gray 0 22 c3_N@ik>mP?`IVn8G9NjB1
+!i122 0
+l12
+L11 22
+Vae_[jo]f>WQCEU3T1=>Gz1
+!s100 PU;KVkb0Q9QLVLgk=lAVR3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eteste_gray
+Z13 w1744849076
+Z14 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R1
+R2
+!i122 5
+R3
+Z17 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd
+Z18 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd
+l0
+L9 1
+VGQ`z_N<3@2@KOCi0XJX>e3
+!s100 GPPk90caRJ[JDRGQaGKV]1
+R6
+32
+Z19 !s110 1744849089
+!i10b 1
+Z20 !s108 1744849089.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd|
+Z22 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd|
+!i113 1
+R11
+R12
+Astimulus
+R14
+R15
+R16
+R1
+R2
+Z23 DEx4 work 10 teste_gray 0 22 GQ`z_N<3@2@KOCi0XJX>e3
+!i122 5
+l29
+L12 58
+Vh3DQoN6FVlN6`[8bkUTCc3
+!s100 oEOe3?Ro@3I5jS8Q6K9?C2
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12

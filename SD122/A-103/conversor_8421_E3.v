@@ -16,7 +16,7 @@ module conv_8421_E3(
                 4'b1000 : Y <= 4'b1011;
                 4'b1001 : Y <= 4'b1100;
                 
-                default: Y <= 4'b0000; 
+                default: Y <= 4'bxxxx; 
         endcase 
     end
     assign S = Y;

@@ -22,7 +22,7 @@ module conv_gray(
                 4'b1110 : Y <= 4'b1001;
                 4'b1111 : Y <= 4'b1000;
                 
-                default: Y <= 4'b0000; 
+                default: Y <= 4'bxxxxx; 
         endcase 
     end
     assign S = Y;

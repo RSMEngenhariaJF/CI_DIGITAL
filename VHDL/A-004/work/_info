@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104
+Eff_1
+Z0 w1745367812
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004
+Z4 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/FF_1.vhd
+Z5 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/FF_1.vhd
+l0
+L4 1
+VhbChzeC@i6IA5djnK6<OB2
+!s100 51ODo<n0PWUaT389YjKa63
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1745367819
+!i10b 1
+Z8 !s108 1745367819.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/FF_1.vhd|
+Z10 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/FF_1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioural
+R1
+R2
+DEx4 work 4 ff_1 0 22 hbChzeC@i6IA5djnK6<OB2
+!i122 12
+l15
+L13 15
+V:BTQLnJ<W1z<FPPP?H8A30
+!s100 OFWgBKTI?hWS;fcTPLFZz0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Effp_1
+w1745367252
+R1
+R2
+!i122 0
+R3
+R4
+R5
+l0
+L4 1
+Vz`UW:Laek^cMT_kF3GEHb3
+!s100 Yi7;lP@72SLFkKZhUoZ222
+R6
+32
+!s110 1745367313
+!i10b 1
+!s108 1745367313.000000
+R9
+R10
+!i113 1
+R11
+R12
+Eteste_ff_1
+Z13 w1745367714
+Z14 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R1
+R2
+!i122 13
+R3
+Z17 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/TB_FF.vhd
+Z18 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/TB_FF.vhd
+l0
+L9 1
+VH=G0:`S@F3MB;9;09@EAA3
+!s100 RjlzGR;Sj9[kRD?X[FE^Q2
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/TB_FF.vhd|
+Z20 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-004/TB_FF.vhd|
+!i113 1
+R11
+R12
+Astimulus
+R14
+R15
+R16
+R1
+R2
+Z21 DEx4 work 10 teste_ff_1 0 22 H=G0:`S@F3MB;9;09@EAA3
+!i122 13
+l31
+Z22 L12 47
+Z23 V=[0IN=obhO6d:?CIm:OZ21
+Z24 !s100 8XdOKel@0:?]8lfm`JKkG0
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12

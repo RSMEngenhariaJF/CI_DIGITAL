@@ -1,0 +1,45 @@
+# Compile of FF_1.vhd failed with 1 errors.
+# Compile of TB_FF.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of FF_1.vhd failed with 1 errors.
+# Compile of TB_FF.vhd failed with 5 errors.
+# 2 compiles, 2 failed with 6 errors.
+# Compile of FF_1.vhd failed with 1 errors.
+# Compile of TB_FF.vhd failed with 5 errors.
+# 2 compiles, 2 failed with 6 errors.
+# Compile of FF_1.vhd was successful.
+# Compile of TB_FF.vhd failed with 5 errors.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of FF_1.vhd was successful.
+# Compile of TB_FF.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of TB_FF.vhd failed with 1 errors.
+# Compile of TB_FF.vhd was successful with warnings.
+vsim work.teste_ff_1
+# vsim work.teste_ff_1 
+# Start time: 21:22:09 on Apr 22,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading std.env(body)
+# Loading work.teste_ff_1(stimulus)
+# Loading work.ff_1(behavioural)
+add wave -position insertpoint  \
+sim:/teste_ff_1/entrada \
+sim:/teste_ff_1/sig_out1 \
+sim:/teste_ff_1/sig_out2 \
+sim:/teste_ff_1/clock \
+sim:/teste_ff_1/period
+run 200ns
+# Compile of FF_1.vhd was successful.
+# Compile of TB_FF.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.teste_ff_1(stimulus)
+# Loading work.ff_1(behavioural)
+run 200ns
+# End time: 21:39:18 on Apr 22,2025, Elapsed time: 0:17:09
+# Errors: 0, Warnings: 1

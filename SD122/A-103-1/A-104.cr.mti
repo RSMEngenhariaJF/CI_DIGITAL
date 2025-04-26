@@ -1,0 +1,37 @@
+C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_16_4.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_16_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cod_16_4
+
+Top level modules:
+	cod_16_4
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_16_4_2.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_16_4_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cod_8_3
+-- Compiling module cod_16_4_2
+
+Top level modules:
+	cod_16_4_2
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/tb_cod_16_4.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/tb_cod_16_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cod_16_2
+
+Top level modules:
+	tb_cod_16_2
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_dec_E3.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/cod_dec_E3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cod_dec_E3
+
+Top level modules:
+	cod_dec_E3
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/tb_cod_dec_E3.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-104/tb_cod_dec_E3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cod_dec_E3
+
+Top level modules:
+	tb_cod_dec_E3
+
+} {} {}}

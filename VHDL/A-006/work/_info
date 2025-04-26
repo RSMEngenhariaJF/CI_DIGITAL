@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-105
+Esingle_port_memory
+Z0 w1745535933
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_design.vhd
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_design.vhd
+l0
+L5 1
+VGF8COzQPd9@N26ZOW1AOS2
+!s100 SVLC=K:<0oHMHgXeO`ii>3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1745539017
+!i10b 1
+Z9 !s108 1745539017.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_design.vhd|
+Z11 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_design.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 18 single_port_memory 0 22 GF8COzQPd9@N26ZOW1AOS2
+!i122 0
+l21
+L15 17
+V]lH:B[MR:0>JNbHJhQYIF3
+!s100 S4nQJ5Cl:I0^UZADPNHTi2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etestbench
+Z14 w1745535938
+R1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+!i122 1
+R4
+Z17 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_testbench.vhd
+Z18 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_testbench.vhd
+l0
+L6 1
+V:WkGF@1IQ[B9?JH]mK<0n2
+!s100 =kYT`NWnla:<cHML]`5fC3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_testbench.vhd|
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_testbench.vhd|
+!i113 1
+R12
+R13
+Astimulus
+R1
+R15
+R16
+R2
+R3
+DEx4 work 9 testbench 0 22 :WkGF@1IQ[B9?JH]mK<0n2
+!i122 1
+l28
+L9 76
+Vb]ch@;gjZQd3OY]<RGB153
+!s100 @zO[CzN^N]aTA@bBX5SWK0
+R7
+32
+R8
+!i10b 1
+R9
+R19
+Z20 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006/aula6_testbench.vhd|
+!i113 1
+R12
+R13

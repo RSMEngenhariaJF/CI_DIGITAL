@@ -1,0 +1,103 @@
+# Compile of condificador_GRAY.vhd was successful.
+# Compile of tv_gray.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim work.teste_gray
+# vsim work.teste_gray 
+# Start time: 21:06:53 on Apr 16,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading std.env(body)
+# Loading work.teste_gray(stimulus)
+# Loading work.codificador_gray(behavioural)
+add wave -position insertpoint  \
+sim:/teste_gray/entrada \
+sim:/teste_gray/sig_out \
+sim:/teste_gray/clock \
+sim:/teste_gray/period
+run 200ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 20 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 30 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 40 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 50 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 60 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 70 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 80 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 90 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 110 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 120 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 130 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 140 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 160 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 170 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 180 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 190 ns  Iteration: 1  Instance: /teste_gray
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 200 ns  Iteration: 1  Instance: /teste_gray
+# Compile of tv_gray.vhd was successful with warnings.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.teste_gray(stimulus)
+run 200ns
+# Compile of tv_gray.vhd was successful with warnings.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.teste_gray(stimulus)
+run 200ns
+# Break in Process stimuli at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd line 41
+# Compile of tv_gray.vhd was successful with warnings.
+vsim work.teste_gray
+# End time: 21:16:59 on Apr 16,2025, Elapsed time: 0:10:06
+# Errors: 0, Warnings: 2
+# vsim work.teste_gray 
+# Start time: 21:16:59 on Apr 16,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading std.env(body)
+# Loading work.teste_gray(stimulus)
+# Loading work.codificador_gray(behavioural)
+add wave -position insertpoint  \
+sim:/teste_gray/entrada \
+sim:/teste_gray/sig_out \
+sim:/teste_gray/rst \
+sim:/teste_gray/clock \
+sim:/teste_gray/period
+run 200ns
+# Compile of tv_gray.vhd was successful with warnings.
+run 200ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.teste_gray(stimulus)
+run 200ns
+restart -f
+run 250ns
+# Break in Process stimuli at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-003/tv_gray.vhd line 56
+# End time: 21:21:01 on Apr 16,2025, Elapsed time: 0:04:02
+# Errors: 0, Warnings: 1

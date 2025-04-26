@@ -1,0 +1,152 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-002
+vconv_7seg
+Z0 !s110 1744837770
+!i10b 1
+!s100 X4Oz;^?XU`BHW>Fb;[>MR1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDLX[kCAe1=F3AJ@zDA8o90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103
+w1744836936
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conv_7seg.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conv_7seg.v
+!i122 12
+Z4 L0 1 29
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1744837770.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conv_7seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conv_7seg.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vconv_8421_E3
+R0
+!i10b 1
+!s100 Z@_h<zLeOL=kIL4OFZYT?3
+R1
+I]azPC=G_G?2O21U8R4H8a3
+R2
+R3
+w1744834354
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_8421_E3.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_8421_E3.v
+!i122 13
+L0 1 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_8421_E3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_8421_E3.v|
+!i113 1
+R7
+R8
+nconv_8421_@e3
+vconv_gray
+R0
+!i10b 1
+!s100 abmG3J6PWP;;WPazEdPZn0
+R1
+IM;QjGMUFj]=2XndMzS>592
+R2
+R3
+w1744834900
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_gray.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_gray.v
+!i122 14
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_gray.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/conversor_gray.v|
+!i113 1
+R7
+R8
+vtb_conv_7seg
+R0
+!i10b 1
+!s100 oRkl;Nd__4G6VHE7O8QK23
+R1
+Iz3LkVomBZ3FR6R8mk=<7g1
+R2
+R3
+w1744837759
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_7seg.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_7seg.v
+!i122 15
+Z9 L0 2 33
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_7seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_7seg.v|
+!i113 1
+R7
+R8
+vtb_conv_8421_E3
+R0
+!i10b 1
+!s100 m8>C=gX8l;??f=c`[MJnS2
+R1
+InLdRg2@z7I@Z6^l4JGQWl1
+R2
+R3
+w1744837243
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_8421_E3.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_8421_E3.v
+!i122 16
+L0 2 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_8421_E3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_8421_E3.v|
+!i113 1
+R7
+R8
+ntb_conv_8421_@e3
+vtb_conv_GRAY
+R0
+!i10b 1
+!s100 4<h@]3_L>XQo?B9?W<40;1
+R1
+IgE?@YUBUHf<NC?oiYD=H50
+R2
+R3
+w1744837761
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_gray.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_gray.v
+!i122 17
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_gray.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-103/tb_conv_gray.v|
+!i113 1
+R7
+R8
+ntb_conv_@g@r@a@y

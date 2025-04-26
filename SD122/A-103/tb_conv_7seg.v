@@ -1,10 +1,10 @@
 `timescale 1ns / 100ps
-module tb_conv_8421_E3();
+module tb_conv_7seg();
 
 reg [3:0] bcd;
-wire [3:0] S;
+wire [6:0] S;
 
-conv_8421_E3 DUT(
+conv_7seg DUT(
     .bcd,
     .S
     );
@@ -21,7 +21,13 @@ initial begin
     #10 bcd = 4'b0111;
     #10 bcd = 4'b1000;
     #10 bcd = 4'b1001;
-    #10 bcd = 4'b1001;
+    #10 bcd = 4'b1010;
+    #10 bcd = 4'b1011;
+    #10 bcd = 4'b1100;
+    #10 bcd = 4'b1101;
+    #10 bcd = 4'b1110;
+    #10 bcd = 4'b1111;
+    #10 bcd = 4'b1111;
     $stop();
 end 
 

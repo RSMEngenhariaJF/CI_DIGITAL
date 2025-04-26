@@ -1,5 +1,5 @@
 `timescale 1ns / 100ps
-module tb_conv_8421_E3();
+module tb_conv_GRAY();
 
 reg [3:0] bcd;
 wire [3:0] S;
@@ -27,7 +27,8 @@ initial begin
     #10 bcd = 4'b1101;
     #10 bcd = 4'b1110;
     #10 bcd = 4'b1111;
-    stop();
+    #10 bcd = 4'b1111;
+    $stop();
 end 
 
 endmodule
