@@ -1,0 +1,50 @@
+C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module register_4bits
+
+Top level modules:
+	register_4bits
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module TB_DATAPATH
+
+Top level modules:
+	TB_DATAPATH
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_ula_behav.v {1 {vlog -work work -vopt -stats=none {C:\Users\rafae\Documents\Aulas\CI-Digital\CI_DIGITAL\SD122\A-112-2\aula26\4bit_ula_behav.v}
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module ula
+
+Top level modules:
+	ula
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module mux2x1_4bits
+
+Top level modules:
+	mux2x1_4bits
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module demux1x2_4bits
+
+Top level modules:
+	demux1x2_4bits
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}

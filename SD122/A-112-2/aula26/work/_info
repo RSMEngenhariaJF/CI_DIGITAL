@@ -1,0 +1,207 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-109-2
+T_opt
+!s110 1746891928
+Voe>SmbHeKeYHFdID6n8En3
+04 11 4 work TB_DATAPATH fast 0
+=12-f854f608a5e1-681f7497-2db-6df0
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U8 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vdatapath
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v
+Z3 !s110 1746891923
+!i10b 1
+!s100 EYhGB4TBe6ma2n>_JURoZ0
+IWVLnP:Wz?^VUBL9kd@OPl2
+Z4 dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26
+w1746820919
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v
+!i122 98
+L0 1 65
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z7 !s108 1746891923.000000
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/datapath.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdemux1x2_4bits
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v
+R3
+!i10b 1
+!s100 _];Q?^iI3U]W89fT[U8i20
+IT1KNc^H?2a<0gS36cI1NO2
+R4
+w1746745678
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v
+!i122 99
+L0 1 21
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/demux12_4bits.v|
+!i113 0
+R8
+R2
+vmux2x1_4bits
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v
+R3
+!i10b 1
+!s100 FCXihC]zSTbLg<Y:mjoIg2
+I[O2bD2AI71;8_DVGiT@i?2
+R4
+w1746745676
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v
+!i122 100
+L0 1 9
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/mux21_4bits.v|
+!i113 0
+R8
+R2
+vregister_4bits
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v
+Z9 !s110 1746891922
+!i10b 1
+!s100 @dOheQ1ozjA]Z;MCl]kKn0
+IzJUB;NbRhj[cB[K_Q_Uea2
+R4
+w1746748650
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v
+!i122 95
+L0 1 16
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1746891922.000000
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg.v|
+!i113 0
+R8
+R2
+vregister_file
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v
+R9
+!i10b 1
+!s100 KNJoWR[LC`EXOU8oje[Yo0
+I>;5Y^M>SA@B>[f]>hSn0Y3
+R4
+w1746748652
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v
+!i122 96
+L0 1 29
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/4bit_reg_file.v|
+!i113 0
+R8
+R2
+vTB_DATAPATH
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v
+R3
+!i10b 1
+!s100 :naHUnR7iYzNR^<KVUi0b1
+I9iKJVO:@IFP`]4M[ad>9C3
+R4
+w1746891908
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v
+!i122 101
+L0 2 156
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26/TB_DATAPATH.v|
+!i113 0
+R8
+R2
+n@t@b_@d@a@t@a@p@a@t@h
+vula
+2C:\Users\rafae\Documents\Aulas\CI-Digital\CI_DIGITAL\SD122\A-112-2\aula26\4bit_ula_behav.v
+R3
+!i10b 1
+!s100 D:;nJOU[;^FmlC7:L5U[<3
+IbIUnMenneh3YaF^Wc^enn3
+R4
+w1746816508
+8C:\Users\rafae\Documents\Aulas\CI-Digital\CI_DIGITAL\SD122\A-112-2\aula26\4bit_ula_behav.v
+FC:\Users\rafae\Documents\Aulas\CI-Digital\CI_DIGITAL\SD122\A-112-2\aula26\4bit_ula_behav.v
+!i122 97
+L0 1 25
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\\Users\\rafae\\Documents\\Aulas\\CI-Digital\\CI_DIGITAL\\SD122\\A-112-2\\aula26\\4bit_ula_behav.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\rafae\Documents\Aulas\CI-Digital\CI_DIGITAL\SD122\A-112-2\aula26\4bit_ula_behav.v|
+!i113 0
+R8
+R2

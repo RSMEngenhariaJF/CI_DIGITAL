@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108
+vcarry_look_ahead_adder
+!s110 1745965767
+!i10b 1
+!s100 hIIdHMUnozCP;:43ZA@UP0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaHO[1?a5>iFE?nFR;zgL=0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1
+w1745965754
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead.v
+!i122 12
+Z3 L0 2 37
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1745965767.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcarry_look_ahead_adder_param
+Z7 !s110 1745965958
+!i10b 1
+!s100 QdjGLDTRVfbZn_j<:FF=k1
+R0
+IkWWZXG<5HiF3CzMgJU9zO2
+R1
+R2
+w1745965808
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead_param.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead_param.v
+!i122 16
+R3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1745965958.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead_param.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/cary_look_ahead_param.v|
+!i113 1
+R5
+R6
+vtb_carry_look_ahead_adder
+!s110 1745964743
+!i10b 1
+!s100 Tb?=m:a@9JHR8YTP_Ng>D0
+R0
+I`7n12fBlR9EeY@Y2RQH`j2
+R1
+R2
+w1745964737
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead.v
+!i122 7
+Z9 L0 2 38
+R4
+r1
+!s85 0
+31
+!s108 1745964743.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead.v|
+!i113 1
+R5
+R6
+vtb_carry_look_ahead_adder_param
+R7
+!i10b 1
+!s100 c4F1Rn6^MTS:iF2CiAR>S1
+R0
+IK2OS4kjSIJT;`<0dg_U`h3
+R1
+R2
+w1745965810
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v
+!i122 17
+R9
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,32 @@
+C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_funct_2
+
+Top level modules:
+	tb_funct_2
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decod_2x4
+-- Compiling module funcao_1
+-- Compiling module funcao_2
+
+Top level modules:
+	funcao_1
+	funcao_2
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_decod_2x4
+
+Top level modules:
+	tb_decod_2x4
+
+} {} {}} C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v {1 {vlog -work work -stats=none C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_funct_1
+
+Top level modules:
+	tb_funct_1
+
+} {} {}}

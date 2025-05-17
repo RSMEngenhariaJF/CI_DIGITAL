@@ -1,0 +1,268 @@
+# Compile of subtrator_paralelo.v failed with 3 errors.
+# Compile of testbench_subtrator_1.v failed with 1 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of subtrator_paralelo.v failed with 2 errors.
+# Compile of testbench_subtrator_1.v failed with 1 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of subtrator_paralelo.v failed with 1 errors.
+# Compile of testbench_subtrator_1.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of subtrator_paralelo.v failed with 1 errors.
+# Compile of testbench_subtrator_1.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_subtrator_1
+# vsim work.tb_subtrator_1 
+# Start time: 21:03:29 on May 06,2025
+# Loading work.tb_subtrator_1
+# Loading work.subtrator
+# Loading work.carry_look_ahead_adder_param
+add wave -position insertpoint  \
+sim:/tb_subtrator_1/A \
+sim:/tb_subtrator_1/B \
+sim:/tb_subtrator_1/B_in \
+sim:/tb_subtrator_1/D \
+sim:/tb_subtrator_1/B_out
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v(45)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_subtrator_1
+# Break in Module tb_subtrator_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v line 45
+add wave -position insertpoint  \
+sim:/tb_subtrator_1/DUT/B_comp
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v(45)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_subtrator_1
+# Break in Module tb_subtrator_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v line 45
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_1
+# Loading work.subtrator
+# Loading work.carry_look_ahead_adder_param
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v(45)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_subtrator_1
+# Break in Module tb_subtrator_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v line 45
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_1
+# Loading work.subtrator
+# Loading work.carry_look_ahead_adder_param
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v(45)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_subtrator_1
+# Break in Module tb_subtrator_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v line 45
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_1
+# Loading work.subtrator
+# Loading work.carry_look_ahead_adder_param
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_1
+# Break in Module tb_subtrator_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v failed with 1 errors.
+# 4 compiles, 1 failed with 1 error.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_subtrator_2
+# End time: 21:31:33 on May 06,2025, Elapsed time: 0:28:04
+# Errors: 0, Warnings: 5
+# vsim work.tb_subtrator_2 
+# Start time: 21:31:33 on May 06,2025
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+add wave -position insertpoint  \
+sim:/tb_subtrator_2/A \
+sim:/tb_subtrator_2/B \
+sim:/tb_subtrator_2/sub \
+sim:/tb_subtrator_2/D \
+sim:/tb_subtrator_2/B_out
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v failed with 2 errors.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 1 failed with 2 errors.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v failed with 2 errors.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 1 failed with 2 errors.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v failed with 1 errors.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v failed with 1 errors.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+add wave -position insertpoint  \
+sim:/tb_subtrator_2/DUT/saida
+restart -f
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(51)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 51
+# Compile of subtrator_paralelo.v was successful.
+# Compile of testbench_subtrator_1.v was successful.
+# Compile of somador_subtrator.v was successful.
+# Compile of testebench_somador_subtrator.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_subtrator_2
+# Loading work.somador_subtrator
+run 100ns
+restart -f
+run 150ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v(57)
+#    Time: 120 ns  Iteration: 0  Instance: /tb_subtrator_2
+# Break in Module tb_subtrator_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v line 57
+# End time: 21:52:14 on May 06,2025, Elapsed time: 0:20:41
+# Errors: 0, Warnings: 1

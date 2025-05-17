@@ -1,0 +1,127 @@
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 20:59:36 on Apr 25,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/rst \
+sim:/testbench/flag_start \
+sim:/testbench/write_en \
+sim:/testbench/counter \
+sim:/testbench/address \
+sim:/testbench/mem_D \
+sim:/testbench/mem_Q \
+sim:/testbench/period
+run 500ns
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 8 (7 downto 0). Right is 7 (6 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# Compile of aula6_testbench.vhd was successful with warnings.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 10 (9 downto 0). Right is 8 (7 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_testbench.vhd was successful with warnings.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 17 (16 downto 0). Right is 21 (20 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 16 (15 downto 0). Right is 21 (20 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 17 (16 downto 0). Right is 21 (20 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 16 (15 downto 0). Right is 17 (16 downto 0).
+#    Time: 20 ns  Iteration: 1  Process: /testbench/line__46 File: C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd
+# Fatal error in Process line__46 at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007/aula6_testbench.vhd 62 Process line__46
+# 
+# Compile of aula6_design.vhd was successful.
+# Compile of aula6_testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testbench(stimulus)
+# Loading work.single_port_memory(rtl)
+run 500ns
+# End time: 21:21:46 on Apr 25,2025, Elapsed time: 0:22:10
+# Errors: 0, Warnings: 2

@@ -1,0 +1,96 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula26
+T_opt
+!s110 1746892280
+V_B<LOi04_k_QVMEb_AHhI0
+04 17 4 work tb_ula_carry_look fast 0
+=1-f854f608a5e1-681f75f7-2b5-5610
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vcarry_look_ahead_adder_param
+Z2 2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v
+Z3 !s110 1746892269
+!i10b 1
+!s100 4hoYaE0cj0@Z=@QVXhHRc1
+I1[>JLiFKmG]T8FQ:A_2KI3
+Z4 dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25
+Z5 w1746744106
+Z6 8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v
+Z7 FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v
+!i122 1
+L0 2 34
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z10 !s108 1746892269.000000
+Z11 !s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_ula_carry_look
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v
+R3
+!i10b 1
+!s100 V`[d=3??N_<SM>J`4AngW1
+Ibe@1e4]@WXlQR5h3W8G=90
+R4
+w1746744278
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v
+!i122 0
+L0 2 59
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v|
+!i113 0
+R13
+R1
+vula
+R2
+R3
+!i10b 1
+!s100 048D9_C47GgRic=5NSBK60
+I6Ta2nCkla6OAXI^4=4;c<0
+R4
+R5
+R6
+R7
+!i122 1
+L0 37 45
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1

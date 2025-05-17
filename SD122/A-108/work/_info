@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2
+vfull_adder
+Z0 !s110 1745963704
+!i10b 1
+!s100 4f`l1;8U>e5W`9Y`mkfbH2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJjOJN^oZ;Le7MFMYcII7l0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108
+Z4 w1745963498
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/full_adder.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/full_adder.v
+!i122 13
+L0 1 8
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1745963703.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/full_adder.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/full_adder.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vsomador_4bits
+R0
+!i10b 1
+!s100 nhZ>0la`]7`L3W2fOSMWX3
+R1
+I1[T`a=QeY?5bm5P59JC_13
+R2
+R3
+R4
+R5
+R6
+!i122 13
+L0 10 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_full_adder
+R0
+!i10b 1
+!s100 K?BS1FUSPDVW<E7>^db@72
+R1
+I7g3[AkTIRM9TUfDdb98f91
+R2
+R3
+w1745963696
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/tb_full_adder.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/tb_full_adder.v
+!i122 14
+L0 2 44
+R7
+r1
+!s85 0
+31
+!s108 1745963704.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/tb_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-108/tb_full_adder.v|
+!i113 1
+R11
+R12

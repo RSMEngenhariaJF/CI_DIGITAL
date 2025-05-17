@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1
+vcarry_look_ahead_adder_param
+Z0 !s110 1746578878
+!i10b 1
+!s100 :zX06D:Th^Ki7HL9^ZK4V1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVWZoagJhEj<Zoczo0TdUE2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2
+Z4 w1746576598
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/subtrator_paralelo.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/subtrator_paralelo.v
+!i122 71
+L0 1 30
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746578878.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/subtrator_paralelo.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/subtrator_paralelo.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vsomador_subtrator
+Z13 !s110 1746578879
+!i10b 1
+!s100 FfN[KhI6jM43Dc:[0[okc0
+R1
+I<TnS46oPlLQ1C`7nGFgNX1
+R2
+R3
+w1746578821
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/somador_subtrator.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/somador_subtrator.v
+!i122 73
+L0 3 18
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/somador_subtrator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/somador_subtrator.v|
+!i113 1
+R11
+R12
+vsubtrator
+R0
+!i10b 1
+!s100 1VlSLU2Il70^PcTXX5A1a1
+R1
+I6SRDXe>4_z03;R;cXac>z2
+R2
+R3
+R4
+R5
+R6
+!i122 71
+L0 32 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_subtrator_1
+R0
+!i10b 1
+!s100 m=c7^m:34><dWU7:fnP`30
+R1
+IYToGDOakROGgaZLB1[7=?0
+R2
+R3
+w1746576649
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v
+!i122 72
+L0 2 53
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testbench_subtrator_1.v|
+!i113 1
+R11
+R12
+vtb_subtrator_2
+R13
+!i10b 1
+!s100 bJaH2CE?dgZge9;[8Dmh?1
+R1
+Ib]a`1mBOVmT=enhGH8IE03
+R2
+R3
+w1746578874
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v
+!i122 74
+L0 2 59
+R7
+r1
+!s85 0
+31
+!s108 1746578879.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-2/testebench_somador_subtrator.v|
+!i113 1
+R11
+R12

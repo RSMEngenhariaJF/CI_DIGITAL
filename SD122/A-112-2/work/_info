@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112
+vcarry_look_ahead_adder_param
+Z0 !s110 1746744292
+!i10b 1
+!s100 4hoYaE0cj0@Z=@QVXhHRc1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhfHTLTa`<l=YZ_O7>OCae1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2
+Z4 w1746744105
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ULA_CARRY_LOOK.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ULA_CARRY_LOOK.v
+!i122 67
+L0 2 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746744292.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ULA_CARRY_LOOK.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ULA_CARRY_LOOK.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vtb_74181
+R0
+!i10b 1
+!s100 aXFYCYlC3<QJ>YhfH3L8T3
+R1
+IkJVIki^?8c9a070<L5d=>1
+R2
+R3
+w1746737994
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/tb_ula_74181.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/tb_ula_74181.v
+!i122 65
+L0 3 59
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/tb_ula_74181.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/tb_ula_74181.v|
+!i113 1
+R11
+R12
+vtb_ula_carry_look
+!s110 1746744293
+!i10b 1
+!s100 GmeZ7NNJ4gW>E89HNe^?02
+R1
+Ii`Wkn<c6i_T@`gSnhM>kR1
+R2
+R3
+w1746744277
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v
+!i122 68
+L0 2 59
+R7
+r1
+!s85 0
+31
+!s108 1746744293.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v|
+!i113 1
+R11
+R12
+vula
+R0
+!i10b 1
+!s100 048D9_C47GgRic=5NSBK60
+R1
+Imd?=1a^n@NeM4W=lUPKML0
+R2
+R3
+R4
+R5
+R6
+!i122 67
+L0 37 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vula_74181
+R0
+!i10b 1
+!s100 Yfk73gg=?cVU_TXGn@@JG1
+R1
+IR1AZAU?P9T<ohb2EIH4j@3
+R2
+R3
+w1746738003
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ula_74181.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ula_74181.v
+!i122 66
+L0 1 47
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ula_74181.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/ula_74181.v|
+!i113 1
+R11
+R12

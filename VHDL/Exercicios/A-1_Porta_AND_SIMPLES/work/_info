@@ -1,0 +1,136 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+Z2 !s12c _opt
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios de fixação/Porta AND SIMPLES
+T_opt
+!s110 1745722602
+VAfikWFAZ5aMFn4]<@MzFE0
+Z4 04 6 8 work tb_and stimulus 1
+=1-f854f608a5e1-680d9ce9-0-6780
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM10U2 
+Z8 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2024.3;79
+R3
+T_opt1
+!s110 1745722651
+VcH1=1oZoVa>eV;nKC]:=L0
+R4
+=1-f854f608a5e1-680d9d1a-293-5c88
+R1
+R5
+R6
+R7
+R8
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R9
+n@_opt1
+R10
+Eporta_and
+Z11 w1745722487
+Z12 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z13 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 15
+Z14 dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES
+Z15 8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/and.vhd
+Z16 FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/and.vhd
+l0
+L5 1
+ViZK`3gA5RUldio^1T8@Y=2
+!s100 1ZRAMXXcKeT485dUfXLh?1
+Z17 OL;C;2024.3;79
+32
+Z18 !s110 1745722595
+!i10b 1
+Z19 !s108 1745722595.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/and.vhd|
+Z21 !s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/and.vhd|
+!i113 0
+Z22 o-work work -2002 -explicit
+Z23 tExplicit 1 CvgOpt 0
+Abehavioral
+R12
+R13
+DEx4 work 9 porta_and 0 22 iZK`3gA5RUldio^1T8@Y=2
+!i122 15
+l13
+L11 15
+V9SA3l:O;RDkU2UXSm69IL1
+!s100 DPDimAc]7e2]GohgQG3ok0
+R17
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 0
+R22
+R23
+Etb_and
+Z24 w1745721007
+Z25 DPx3 std 3 env 0 22 g[fj8WJKOa<0Y`zWY3UD70
+R12
+R13
+!i122 16
+R14
+Z26 8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd
+Z27 FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd
+l0
+L6 1
+V4^Q[E<bEAOh6BKbA_5aCb2
+!s100 8YI^A_=0hRJ=k<;K?8]Ia2
+R17
+32
+R18
+!i10b 1
+R19
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd|
+Z29 !s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd|
+!i113 0
+R22
+R23
+Astimulus
+R25
+R12
+R13
+DEx4 work 6 tb_and 0 22 4^Q[E<bEAOh6BKbA_5aCb2
+!i122 16
+l21
+L9 31
+VcVC?97E5P1J^5>gilTbjB2
+!s100 kMMFN3kVVXBoPdZI7khYa2
+R17
+32
+R18
+!i10b 1
+R19
+R28
+R29
+!i113 0
+R22
+R23

@@ -1,0 +1,154 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2
+vCSA
+Z0 !s110 1746830974
+!i10b 1
+!s100 Dn56m=nVhb8Nkm7D1aGZ30
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5f0D`kC^IQo81Y@:Wa1VW3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1
+Z4 w1746830967
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v
+!i122 30
+L0 1 9
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746830974.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@c@s@a
+vCSA_PARAM
+R0
+!i10b 1
+!s100 >PU9U=b2EeoNY7VBN?0==3
+R1
+Ioi<^QL:`nf5EDUgRJkNVj3
+R2
+R3
+R4
+R5
+R6
+!i122 30
+L0 37 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@c@s@a_@p@a@r@a@m
+vfull_add
+!s110 1746829926
+!i10b 1
+!s100 Q4cT@hUNg7XQ00b438ee40
+R1
+IQmLm6:B=aZ<I?`>Cc`lPQ3
+R2
+R3
+w1746829922
+R5
+R6
+!i122 14
+L0 11 7
+R7
+r1
+!s85 0
+31
+!s108 1746829926.000000
+R9
+R10
+!i113 1
+R11
+R12
+vsomador_CSA
+R0
+!i10b 1
+!s100 1DjnP=aFSlRKYzS<EIOO@3
+R1
+IBC@>Qe_LAWJaYY5ST3E=Z3
+R2
+R3
+R4
+R5
+R6
+!i122 30
+L0 13 23
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nsomador_@c@s@a
+vsomador_CSA_PARAM
+R0
+!i10b 1
+!s100 AeMaSRAX7WfW8Pc1m?[Im3
+R1
+Igd]FU]TK0lDk3BI^JL7?g2
+R2
+R3
+R4
+R5
+R6
+!i122 30
+L0 47 23
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nsomador_@c@s@a_@p@a@r@a@m
+vTB_SOMADOR_CSA
+R0
+!i10b 1
+!s100 1?A2R@gL@e8@fk[SWi5GM1
+R1
+ICJJUXL4BQ8=F;Y5H^BR>=2
+R2
+R3
+w1746830653
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v
+!i122 31
+L0 2 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v|
+!i113 1
+R11
+R12
+n@t@b_@s@o@m@a@d@o@r_@c@s@a

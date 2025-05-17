@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-007
+vdecod_2x4
+Z0 !s110 1745879122
+!i10b 1
+!s100 O[0a?W;o4?chM2kF6m>UO3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2Jf5CJ^Rjoka5KjU>CKBh2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1
+Z4 w1745878855
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v
+!i122 10
+L0 1 10
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1745879122.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/decod_2x4.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfuncao_1
+R0
+!i10b 1
+!s100 hczfn:lUjne>59a^a<GUb1
+R1
+I56?S0if0b[<fbE`3V3Ak[2
+R2
+R3
+R4
+R5
+R6
+!i122 10
+L0 12 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vfuncao_2
+R0
+!i10b 1
+!s100 :em9?Yb8MoQDAJNUhlMTU0
+R1
+IZQ[jkbC`n_9^k^BOB2<n[0
+R2
+R3
+R4
+R5
+R6
+!i122 10
+L0 30 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_decod_2x4
+R0
+!i10b 1
+!s100 H7l?aDZnG@@CE>Q2GHkab0
+R1
+I7QmcVJgIbkU0ICn@K2W6;1
+R2
+R3
+w1745879106
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v
+!i122 11
+L0 2 33
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_decod_2x4.v|
+!i113 1
+R11
+R12
+vtb_funct_1
+R0
+!i10b 1
+!s100 ^PX65Qfg;B3NWQ=mEI>2W1
+R1
+I<YAJ9HK@7BW;d<^SII8f21
+R2
+R3
+w1745878857
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v
+!i122 12
+L0 2 31
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_1.v|
+!i113 1
+R11
+R12
+vtb_funct_2
+!s110 1745879123
+!i10b 1
+!s100 1I1L1GY0c9Jf3lN`IFC0Q2
+R1
+IbPE:[7[Sa84A0nzG^[NUm0
+R2
+R3
+w1745879105
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v
+!i122 13
+L0 2 61
+R7
+r1
+!s85 0
+31
+!s108 1745879123.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1/tb_funct_2.v|
+!i113 1
+R11
+R12

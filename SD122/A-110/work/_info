@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008
+vconvert_BCD
+Z0 !s110 1746487271
+!i10b 1
+!s100 _43:^7<NabZfl_5Edm96[0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+In8B`inG4nRbH9Q9<2LGAV0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110
+Z4 w1746487260
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/somador_BCD.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/somador_BCD.v
+!i122 88
+L0 29 26
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746487271.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/somador_BCD.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/somador_BCD.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+nconvert_@b@c@d
+vsomador_BCD
+R0
+!i10b 1
+!s100 ^hj?liVU8VL;G2hYl8AjM3
+R1
+ITPZ5[Wi7a=GjT>3cZ@BFL1
+R2
+R3
+R4
+R5
+R6
+!i122 88
+L0 1 27
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nsomador_@b@c@d
+vsomador_BCD_3DIG
+R0
+!i10b 1
+!s100 ]56dI<Q7;6Rb<NLSW9=N?0
+R1
+IR4=a@3N78dhOzLIe1f20@3
+R2
+R3
+R4
+R5
+R6
+!i122 88
+L0 56 46
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nsomador_@b@c@d_3@d@i@g
+vtb_somador_BCD
+R0
+!i10b 1
+!s100 khI4Dc3P;XGKhQngYM26b3
+R1
+I9V66m8G?nn`N^:8iBFC;g0
+R2
+R3
+w1746484449
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD.v
+!i122 89
+Z13 L0 2 43
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD.v|
+!i113 1
+R11
+R12
+ntb_somador_@b@c@d
+vtb_somador_BCD_3DIG
+R0
+!i10b 1
+!s100 ATjRVz1eW`P1;IRnEP<zR0
+R1
+I]>T5WbV@ZFnMW:<Uc782Q0
+R2
+R3
+w1746486510
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD_3DIG.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD_3DIG.v
+!i122 90
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD_3DIG.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110/tb_somador_BCD_3DIG.v|
+!i113 1
+R11
+R12
+ntb_somador_@b@c@d_3@d@i@g

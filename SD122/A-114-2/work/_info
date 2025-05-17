@@ -1,0 +1,231 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-113-2
+T_opt
+!s110 1747277869
+V73J9Co0m`NR1MzL6LH2PH3
+04 16 4 work ieee754_adder_tb fast 0
+=62-f854f608a5e1-6825582d-d7-3080
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U4 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vieee754_adder
+Z3 2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder.v
+Z4 !s110 1747277865
+!i10b 1
+!s100 fYF6jh;SeH4YOOdLh01WU0
+I=IR1N^8Dfd@0I5hiSdC5X2
+Z5 dC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2
+Z6 w1747277720
+Z7 8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder.v
+Z8 FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder.v
+!i122 122
+L0 1 53
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z11 !s108 1747277865.000000
+Z12 !s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vieee754_adder_tb
+2C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder_tb.v
+!s110 1747277866
+!i10b 1
+!s100 gL8dGCgIQ2eRHiE2A4BMV2
+ImNcAzN41AJZg<J_E@FzWQ2
+R5
+w1747277859
+8C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder_tb.v
+FC:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder_tb.v
+!i122 123
+L0 1 84
+R9
+R10
+r1
+!s85 0
+31
+!s108 1747277866.000000
+!s107 C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-114-2/ieee754_adder_tb.v|
+!i113 0
+R14
+R2
+vieee754_mult
+R3
+R4
+!i10b 1
+!s100 MPgV1hUS4jF91dQ<84FIV0
+IU>=W35[B;RC7dnCg999zQ0
+R5
+R6
+R7
+R8
+!i122 122
+L0 124 51
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vieee754_sub
+R3
+R4
+!i10b 1
+!s100 MbPW@DZ?GSY9eVd8>lULG1
+IKTmEjWJA6`KkYE^ogN=zE0
+R5
+R6
+R7
+R8
+!i122 122
+L0 55 68
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2

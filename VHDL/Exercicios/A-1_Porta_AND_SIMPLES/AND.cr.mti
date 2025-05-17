@@ -1,0 +1,11 @@
+C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2024.3 Compiler 2024.09 Sep 10 2024
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ENV
+** Warning: C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/VHDL/Exercicios/A-1_Porta_AND_SIMPLES/tb_and.vhd(4): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+-- Compiling entity tb_and
+-- Compiling architecture stimulus of tb_and
+
+} {} {}}

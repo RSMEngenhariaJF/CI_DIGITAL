@@ -1,0 +1,25 @@
+# Compile of cary_look_ahead_param.v was successful.
+# Compile of tb_carry_look_ahead_param.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_carry_look_ahead_adder_param
+# vsim work.tb_carry_look_ahead_adder_param 
+# Start time: 19:33:41 on Apr 29,2025
+# Loading work.tb_carry_look_ahead_adder_param
+# Loading work.carry_look_ahead_adder_param
+add wave -position insertpoint  \
+sim:/tb_carry_look_ahead_adder_param/A \
+sim:/tb_carry_look_ahead_adder_param/B \
+sim:/tb_carry_look_ahead_adder_param/C_in \
+sim:/tb_carry_look_ahead_adder_param/S \
+sim:/tb_carry_look_ahead_adder_param/C_out
+run 100ns
+# Tempo: 0 | A = 1011 | B = 1101 | C in = 0 | S = 1000 | C_out = 1
+# Tempo: 10000 | A = 0101 | B = 0011 | C in = 0 | S = 1000 | C_out = 0
+# Tempo: 20000 | A = 1001 | B = 0110 | C in = 1 | S = 0000 | C_out = 1
+# Tempo: 30000 | A = 1111 | B = 1111 | C in = 0 | S = 1110 | C_out = 1
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v(37)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_carry_look_ahead_adder_param
+# Break in Module tb_carry_look_ahead_adder_param at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead_param.v line 37
+quit -sim
+# End time: 20:50:12 on Apr 29,2025, Elapsed time: 1:16:31
+# Errors: 0, Warnings: 6

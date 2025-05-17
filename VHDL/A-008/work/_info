@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1
+Ereal_time_clock
+Z0 w1745973617
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 25
+Z4 dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_design.vhd
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_design.vhd
+l0
+L6 1
+V0O92I@EGXloZDDz;J;n211
+!s100 X_m9D[;<oL`JjO2B0;1jc3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1745973623
+!i10b 1
+Z9 !s108 1745973623.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_design.vhd|
+Z11 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_design.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 15 real_time_clock 0 22 0O92I@EGXloZDDz;J;n211
+!i122 25
+l58
+L29 96
+VTETCZ@DcdVNE9UzR@ZI>50
+!s100 cZG:zI<NB;=X7kKPGNoJo3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etestbench
+Z14 w1745973271
+R1
+R2
+R3
+!i122 26
+R4
+Z15 8C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_testbench.vhd
+Z16 FC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_testbench.vhd
+l0
+L5 1
+VdOb>6jh7@ZoCzKXKoE3fN1
+!s100 QI8Em8dT_6iL?m_nEB76n1
+R7
+32
+Z17 !s110 1745973624
+!i10b 1
+Z18 !s108 1745973624.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_testbench.vhd|
+Z20 !s107 C:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-008/aula8_testbench.vhd|
+!i113 1
+R12
+R13
+Astimulus
+R1
+R2
+R3
+Z21 DEx4 work 9 testbench 0 22 dOb>6jh7@ZoCzKXKoE3fN1
+!i122 26
+l48
+Z22 L8 89
+Z23 VlkF;TXo7CPN5;STT`HMSA2
+Z24 !s100 WZSS`F^;U56A=ID`RjYRz2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13

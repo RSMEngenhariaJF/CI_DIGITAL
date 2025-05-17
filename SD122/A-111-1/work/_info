@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-110
+vmeio_subtrator
+Z0 !s110 1746570454
+!i10b 1
+!s100 mOEb:Y02U9V?k6NHG9jzD3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7ZTSSXPQ=PKl^cVcUjBBi2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1
+Z4 w1746569919
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/subtrator_completo.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/subtrator_completo.v
+!i122 13
+L0 35 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746570454.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/subtrator_completo.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/subtrator_completo.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vmeio_subtrator_2
+R0
+!i10b 1
+!s100 HkngE6Nl0n<0B9Mk;G3C@1
+R1
+I:zS?j_K6:z3?m<b[=5`o42
+R2
+R3
+Z13 w1746569364
+Z14 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/meio_subtrator.v
+Z15 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/meio_subtrator.v
+!i122 11
+L0 13 16
+R7
+r1
+!s85 0
+31
+Z16 !s108 1746570453.000000
+Z17 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/meio_subtrator.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/meio_subtrator.v|
+!i113 1
+R11
+R12
+vmeio_subtrator_3
+R0
+!i10b 1
+!s100 ;@`g2giM7C`fmWHd6zF9a1
+R1
+I4>ilWKk>3nD1:8=RMSdMz1
+R2
+R3
+R13
+R14
+R15
+!i122 11
+L0 30 12
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R11
+R12
+vmeio_subtrator_4
+R0
+!i10b 1
+!s100 VZ`b5iACCU3ZomNJ8lDe02
+R1
+I2H>FEeSI;Te76a4?<=^aO3
+R2
+R3
+R13
+R14
+R15
+!i122 11
+L0 43 16
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R11
+R12
+vsubtrator_completo
+R0
+!i10b 1
+!s100 oIa;nb=6ma;jbDLSDbR8N2
+R1
+IK?LTkPo8Q4h8jij4OzKQ32
+R2
+R3
+R4
+R5
+R6
+!i122 13
+L0 11 23
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vsubtrator_completo_comportamental2
+R0
+!i10b 1
+!s100 F^fzZiKD<1@WH14I?D`9R0
+R1
+ID3K[nG7Cne@;z:BzGRJgJ2
+R2
+R3
+R4
+R5
+R6
+!i122 13
+L0 44 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vsubtrator_completo_rtl1
+R0
+!i10b 1
+!s100 ]zg03mWNJjYi:PP5JEdOA0
+R1
+Iog2To9oYgG2=VA^[4Rc;V1
+R2
+R3
+R4
+R5
+R6
+!i122 13
+L0 2 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_meio_somador
+!s110 1746570343
+!i10b 1
+!s100 Rf8E_aJ3mA7aOR_47@dLn3
+R1
+IjGEPTiT<ACDICR2E>MWB]0
+R2
+R3
+w1746570314
+Z19 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testebench_subtrator_completo.v
+Z20 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testebench_subtrator_completo.v
+!i122 6
+Z21 L0 2 79
+R7
+r1
+!s85 0
+31
+!s108 1746570343.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testebench_subtrator_completo.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testebench_subtrator_completo.v|
+!i113 1
+R11
+R12
+vtb_meio_subtrator
+R0
+!i10b 1
+!s100 JEVA;J1_WF;E6S4_B@db81
+R1
+I`mS4a4;CAm^RSA=CP;ob52
+R2
+R3
+w1746570393
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testbench_meio_subtrator.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testbench_meio_subtrator.v
+!i122 12
+L0 2 55
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testbench_meio_subtrator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testbench_meio_subtrator.v|
+!i113 1
+R11
+R12
+vtb_subtrator_completo
+R0
+!i10b 1
+!s100 ?:VZMFachlICZ7DdEFN3?3
+R1
+IzIcn@[`5FF7j]H7z]gkQ91
+R2
+R3
+w1746570448
+R19
+R20
+!i122 14
+R21
+R7
+r1
+!s85 0
+31
+R8
+Z23 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-111-1/testebench_subtrator_completo.v|
+R22
+!i113 1
+R11
+R12

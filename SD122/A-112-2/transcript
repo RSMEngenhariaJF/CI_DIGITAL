@@ -1,0 +1,162 @@
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 7 errors.
+# 3 compiles, 1 failed with 7 errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v failed with 3 errors.
+# 3 compiles, 1 failed with 3 errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v failed with 4 errors.
+# 4 compiles, 1 failed with 4 errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v failed with 4 errors.
+# 4 compiles, 1 failed with 4 errors.
+# Compile of TB_ULA_CARRY_LOOK.v failed with 4 errors.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v failed with 1 errors.
+# 4 compiles, 1 failed with 1 error.
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_ula_carry_look
+# vsim work.tb_ula_carry_look 
+# Start time: 19:31:31 on May 08,2025
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+# ** Error: (vsim-3063) Port 'ropagado' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_ula_carry_look/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v Line: 9
+# Error loading design
+# End time: 19:31:31 on May 08,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 24
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_ula_carry_look
+# vsim work.tb_ula_carry_look 
+# Start time: 19:31:53 on May 08,2025
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+add wave -position insertpoint  \
+sim:/tb_ula_carry_look/A \
+sim:/tb_ula_carry_look/B \
+sim:/tb_ula_carry_look/seletor \
+sim:/tb_ula_carry_look/c_in \
+sim:/tb_ula_carry_look/resultado \
+sim:/tb_ula_carry_look/propagado \
+sim:/tb_ula_carry_look/gerado \
+sim:/tb_ula_carry_look/carry_out
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(45)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 45
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(46)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 46
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(58)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 58
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(58)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 58
+restart -f
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(58)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 58
+# Compile of tb_ula_74181.v was successful.
+# Compile of ula_74181.v was successful.
+# Compile of ULA_CARRY_LOOK.v was successful with warnings.
+# Compile of TB_ULA_CARRY_LOOK.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_ula_carry_look
+# Loading work.ula
+run 200ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v(58)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_ula_carry_look
+# Break in Module tb_ula_carry_look at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-112-2/TB_ULA_CARRY_LOOK.v line 58

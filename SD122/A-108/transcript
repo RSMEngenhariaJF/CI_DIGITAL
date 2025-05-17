@@ -1,0 +1,22 @@
+# Compile of cary_look_ahead.v was successful.
+# Compile of tb_carry_look_ahead.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_carry_look_ahead_adder
+# vsim work.tb_carry_look_ahead_adder 
+# Start time: 19:08:20 on Apr 29,2025
+# Loading work.tb_carry_look_ahead_adder
+add wave -position insertpoint  \
+sim:/tb_carry_look_ahead_adder/A \
+sim:/tb_carry_look_ahead_adder/B \
+sim:/tb_carry_look_ahead_adder/C_in \
+sim:/tb_carry_look_ahead_adder/S \
+sim:/tb_carry_look_ahead_adder/C_out
+run 100ns
+# Tempo: 0 | A = 1011 | B = 1101 | C in = 0 | S = zzzz | C_out = z
+# Tempo: 10000 | A = 0101 | B = 0011 | C in = 0 | S = zzzz | C_out = z
+# Tempo: 20000 | A = 1001 | B = 0110 | C in = 1 | S = zzzz | C_out = z
+# Tempo: 30000 | A = 1111 | B = 1111 | C in = 0 | S = zzzz | C_out = z
+# ** Note: $finish    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-109-1/tb_carry_look_ahead.v(30)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_carry_look_ahead_adder
+# End time: 19:08:38 on Apr 29,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0

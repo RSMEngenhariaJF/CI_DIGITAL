@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/VHDL/A-006
+vdemux_1x2
+Z0 !s110 1745619168
+!i10b 1
+!s100 6j<LdEPfVa52LCYYoo2eC1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ib9M<e]7nY<]OciEhYmWf91
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106
+Z4 w1745618883
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8_2.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8_2.v
+!i122 15
+L0 24 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1745619168.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8_2.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8_2.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vdemux_1x4
+R0
+!i10b 1
+!s100 J`mOfKf6a2ZGa=?:JZmim2
+R1
+IH7j@gLhPT<OQWCThB1X=n3
+R2
+R3
+R4
+R5
+R6
+!i122 15
+L0 1 22
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vdemux_1x8
+R0
+!i10b 1
+!s100 FCCg@ILM5CeFeA;7>^?300
+R1
+IKV?=_CJ52>`]HlncO>OJ]1
+R2
+R3
+w1745618079
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8.v
+!i122 14
+L0 1 29
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1x8.v|
+!i113 1
+R11
+R12
+vdemux_1x8_2
+R0
+!i10b 1
+!s100 PabF;2e;`I>LTZ0Boe?T70
+R1
+I7nz>j>`=enmcmAi81O[WZ0
+R2
+R3
+R4
+R5
+R6
+!i122 15
+L0 42 26
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vdemux_1xN
+R0
+!i10b 1
+!s100 ?>5:noVLR18aFLmYd>S@n2
+R1
+IPRibeDZ<2SlhzEJE9;^O23
+R2
+R3
+w1745618509
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1xN.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1xN.v
+!i122 16
+L0 1 16
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1xN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/demux_1xN.v|
+!i113 1
+R11
+R12
+ndemux_1x@n
+vtb_demux_1x8
+R0
+!i10b 1
+!s100 LXkX2S;APHTaEfiLPNmK;1
+R1
+I>`O03A9G9??KOd2KNdZ5g0
+R2
+R3
+w1745619153
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/tb_demux_1x8.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/tb_demux_1x8.v
+!i122 17
+L0 2 48
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/tb_demux_1x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-106/tb_demux_1x8.v|
+!i113 1
+R11
+R12

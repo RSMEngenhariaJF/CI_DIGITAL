@@ -1,0 +1,19 @@
+C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-109-2/somador.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-109-2/somador.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module rtl_4bit_carry_look_ahead_adder
+-- Compiling module behave_4bit_carry_lookahead_adder
+-- Compiling module behave_4bit_carry_lookahead_adder_parameter
+
+Top level modules:
+	rtl_4bit_carry_look_ahead_adder
+	behave_4bit_carry_lookahead_adder
+	behave_4bit_carry_lookahead_adder_parameter
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-109-2/tb_carry_look_ahead_adder.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-109-2/tb_carry_look_ahead_adder.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module tb_carry_look_ahead_adder
+
+Top level modules:
+	tb_carry_look_ahead_adder
+
+} {} {}}

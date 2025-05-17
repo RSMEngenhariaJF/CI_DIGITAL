@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-1
+vfuncao_1
+Z0 !s110 1745884577
+!i10b 1
+!s100 =E_QY2?b[<zHOlc1[nREX3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InTZe]lYh4OFWmMoiTTR]B2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2
+Z4 w1745881632
+Z5 8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/mux_4_1.v
+Z6 FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/mux_4_1.v
+!i122 9
+L0 12 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1745884577.000000
+Z9 !s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/mux_4_1.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/mux_4_1.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfuncao_2
+R0
+!i10b 1
+!s100 @<4NkMb0iaF3RzAP[7ano2
+R1
+IW<=An2nEHFNRaBJ^^o3[_0
+R2
+R3
+R4
+R5
+R6
+!i122 9
+L0 29 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux_4x1
+R0
+!i10b 1
+!s100 ?TDUZJBFWl@@ljd`lh9Em3
+R1
+IP54nL@9h]gz`7>?@e9K]D2
+R2
+R3
+R4
+R5
+R6
+!i122 9
+L0 1 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_funcao_1
+Z13 !s110 1745884578
+!i10b 1
+!s100 F?RE;I2h1;?Z7YhgWbW4O1
+R1
+I`1P0hLS9]K=_Sm?Klj_S?3
+R2
+R3
+w1745884566
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v
+!i122 10
+L0 3 33
+R7
+r1
+!s85 0
+31
+Z14 !s108 1745884578.000000
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v|
+!i113 1
+R11
+R12
+vtb_funcao_2
+R13
+!i10b 1
+!s100 M@?MnbDYjhWP:zH1dK]T=2
+R1
+I[=`dW>;cad6S@?H8gkmg12
+R2
+R3
+w1745884571
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v
+!i122 11
+L0 3 35
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v|
+!i113 1
+R11
+R12
+vtb_mux_4x1
+R13
+!i10b 1
+!s100 L6_29EgCz4KK[kKSHA54E2
+R1
+ILNA9=I=8n]NIhEL[jZlfU3
+R2
+R3
+w1745884415
+8C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_mux4x1.v
+FC:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_mux4x1.v
+!i122 12
+L0 3 118
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_mux4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_mux4x1.v|
+!i113 1
+R11
+R12

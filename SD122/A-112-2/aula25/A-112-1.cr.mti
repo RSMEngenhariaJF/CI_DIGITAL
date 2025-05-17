@@ -1,0 +1,19 @@
+C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v {2 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module carry_look_ahead_adder_param
+-- Compiling module ula
+** Warning: C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v(66): (vlog-2182) 'G' might be read before written in always_comb or always @* block.
+** Warning: C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/ULA_CARRY_LOOK.v(66): (vlog-2182) 'P' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	carry_look_ahead_adder_param
+	ula
+
+} {} {}} C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v {1 {vlog -work work -vopt -stats=none C:/Users/rafae/Documents/Aulas/CI-Digital/CI_DIGITAL/SD122/A-112-2/aula25/TB_ULA_CARRY_LOOK.v
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module tb_ula_carry_look
+
+Top level modules:
+	tb_ula_carry_look
+
+} {} {}}

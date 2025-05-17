@@ -1,0 +1,104 @@
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v failed with 2 errors.
+# Compile of tb_funct_2.v failed with 2 errors.
+# Compile of tb_mux4x1.v failed with 1 errors.
+# 4 compiles, 3 failed with 5 errors.
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v failed with 3 errors.
+# Compile of tb_funct_2.v failed with 3 errors.
+# Compile of tb_mux4x1.v failed with 1 errors.
+# 4 compiles, 3 failed with 7 errors.
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v failed with 1 errors.
+# Compile of tb_funct_2.v failed with 1 errors.
+# Compile of tb_mux4x1.v failed with 1 errors.
+# 4 compiles, 3 failed with 3 errors.
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v was successful.
+# Compile of tb_funct_2.v failed with 1 errors.
+# Compile of tb_mux4x1.v failed with 1 errors.
+# 4 compiles, 2 failed with 2 errors.
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v was successful.
+# Compile of tb_funct_2.v was successful with warnings.
+# Compile of tb_mux4x1.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_mux_4x1
+# vsim work.tb_mux_4x1 
+# Start time: 20:52:11 on Apr 28,2025
+# Loading work.tb_mux_4x1
+# Loading work.mux_4x1
+add wave -position insertpoint  \
+sim:/tb_mux_4x1/A \
+sim:/tb_mux_4x1/B \
+sim:/tb_mux_4x1/D0 \
+sim:/tb_mux_4x1/D1 \
+sim:/tb_mux_4x1/D2 \
+sim:/tb_mux_4x1/D3 \
+sim:/tb_mux_4x1/Y \
+sim:/tb_mux_4x1/data \
+sim:/tb_mux_4x1/sel
+run 200ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run 100ns
+vsim work.tb_funcao_1
+# End time: 20:54:52 on Apr 28,2025, Elapsed time: 0:02:41
+# Errors: 0, Warnings: 1
+# vsim work.tb_funcao_1 
+# Start time: 20:54:52 on Apr 28,2025
+# Loading work.tb_funcao_1
+# Loading work.funcao_1
+# Loading work.mux_4x1
+add wave -position insertpoint  \
+sim:/tb_funcao_1/A \
+sim:/tb_funcao_1/B \
+sim:/tb_funcao_1/D0 \
+sim:/tb_funcao_1/D1 \
+sim:/tb_funcao_1/D2 \
+sim:/tb_funcao_1/D3 \
+sim:/tb_funcao_1/Y \
+sim:/tb_funcao_1/data \
+sim:/tb_funcao_1/sel \
+sim:/tb_funcao_1/i
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v(33)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_funcao_1
+# Break in Module tb_funcao_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v line 33
+# Compile of mux_4_1.v was successful.
+# Compile of tb_funct_1.v was successful.
+# Compile of tb_funct_2.v was successful with warnings.
+# Compile of tb_mux4x1.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_funcao_1
+# Loading work.funcao_1
+# Loading work.mux_4x1
+run 100ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v(32)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_funcao_1
+# Break in Module tb_funcao_1 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_1.v line 32
+vsim work.tb_funcao_2
+# End time: 20:58:18 on Apr 28,2025, Elapsed time: 0:03:26
+# Errors: 0, Warnings: 1
+# vsim work.tb_funcao_2 
+# Start time: 20:58:18 on Apr 28,2025
+# Loading work.tb_funcao_2
+# Loading work.funcao_2
+# Loading work.mux_4x1
+add wave -position insertpoint  \
+sim:/tb_funcao_2/A \
+sim:/tb_funcao_2/B \
+sim:/tb_funcao_2/C \
+sim:/tb_funcao_2/D0 \
+sim:/tb_funcao_2/D1 \
+sim:/tb_funcao_2/D2 \
+sim:/tb_funcao_2/D3 \
+sim:/tb_funcao_2/Y
+run 150ns
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v(34)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_funcao_2
+# Break in Module tb_funcao_2 at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-107-2/tb_funct_2.v line 34
+# End time: 21:03:36 on Apr 28,2025, Elapsed time: 0:05:18
+# Errors: 0, Warnings: 1

@@ -1,0 +1,210 @@
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:09:38 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+add wave -position insertpoint  \
+sim:/TB_SOMADOR_CSA/A \
+sim:/TB_SOMADOR_CSA/B \
+sim:/TB_SOMADOR_CSA/C \
+sim:/TB_SOMADOR_CSA/soma \
+sim:/TB_SOMADOR_CSA/Carry
+add wave -position insertpoint  \
+sim:/TB_SOMADOR_CSA/DUT/sum \
+sim:/TB_SOMADOR_CSA/DUT/Cout
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+add wave -position insertpoint  \
+sim:/TB_SOMADOR_CSA/DUT/soma_final
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v failed with 1 errors.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v failed with 2 errors.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA
+# Loading work.CSA
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(24)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 24
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA
+# ** Error (suppressible): (vsim-3006) Too many inherited module instance parameters.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SOMADOR_CSA/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v Line: 56
+run -all
+# No Design Loaded!
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:09:38 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA
+# ** Error (suppressible): (vsim-3006) Too many inherited module instance parameters.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SOMADOR_CSA/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v Line: 56
+# Error loading design
+# End time: 19:42:08 on May 09,2025, Elapsed time: 0:32:30
+# Errors: 2, Warnings: 1
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:43:31 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA
+# ** Error (suppressible): (vsim-3584) C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v(56): Module parameter 'N' not found for override.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SOMADOR_CSA/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v
+# Error loading design
+# End time: 19:43:31 on May 09,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:44:22 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA
+# ** Error (suppressible): (vsim-3584) C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v(56): Module parameter 'N' not found for override.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SOMADOR_CSA/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v
+# Error loading design
+# End time: 19:44:23 on May 09,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:46:17 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA
+# ** Error (suppressible): (vsim-3584) C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v(56): Module parameter 'N' not found for override.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SOMADOR_CSA/DUT File: C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/CSA.v
+# Error loading design
+# End time: 19:46:18 on May 09,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of CSA.v was successful.
+# Compile of TB_CSA.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_SOMADOR_CSA
+# vsim work.TB_SOMADOR_CSA 
+# Start time: 19:49:37 on May 09,2025
+# Loading work.TB_SOMADOR_CSA
+# Loading work.somador_CSA_PARAM
+# Loading work.CSA_PARAM
+run -all
+# ** Note: $stop    : C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v(33)
+#    Time: 20 ns  Iteration: 0  Instance: /TB_SOMADOR_CSA
+# Break in Module TB_SOMADOR_CSA at C:/Users/aluno/Documents/CI_DIGITAL/SD122/A-113-1/TB_CSA.v line 33
